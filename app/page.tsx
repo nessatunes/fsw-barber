@@ -44,6 +44,9 @@ const Home = () => {
           </CardContent>
         </Card>
       </div>
+      <div>
+        <h2>teste</h2>
+      </div>
     </div>
   )
 }
