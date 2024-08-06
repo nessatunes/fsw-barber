@@ -4,6 +4,7 @@ import { MenuIcon } from "lucide-react"
 import { Button } from "./ui/button"
 
 const Header = () => {
+  //chamar banco de dados
   return (
     <Card>
       <CardContent className="flex flex-row items-center justify-between p-5">
