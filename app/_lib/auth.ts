@@ -21,4 +21,5 @@ export const authOptions: AuthOptions = {
       return session
     },
   },
+  secret: process.env.NEXT_ATUTH_SECRET //para funcionar em anbiente de produção
 }
